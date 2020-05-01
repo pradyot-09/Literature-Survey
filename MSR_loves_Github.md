@@ -1,5 +1,5 @@
 # Research Proposal
-## *Title* : A Survey of contributions to Github by the MSR Community
+## *Title* : A Survey of Findings from Github reported by the MSR Community
 
 *Author : Pradyot Patil*
 
