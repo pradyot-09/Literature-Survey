@@ -1,20 +1,29 @@
 # Research Proposal
 
-1) Title : **A Survey of contributions to Github by the MSR Community**
+## *Title* : A Survey of contributions to Github by the MSR Community
 
 ## Background : 
 
 Since the advent of github, the MSR community has been mining open source repositories from Github to learn from past experiences. In the past decade, number of research papers have been published in MSR conference reporting ﬁndings based on data mined from GitHub. As the community continues to deepen in its understanding of software engineering thanks to the analysis performed on this platform, I believe it is worthwhile to reﬂect and summarise the findings from Github which these research papers have contributed to the research community by exploited large scale github data. In MSR 2016 conference, the paper : [Findings from GitHub: Methods, Datasets and Limitations (meta-analysis)](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/Findings%20from%20GitHub_Methods%2C%20Datasets%20and%20Limitations.pdf) presented meta-analysis of 93 research papers which report findings from Github repositories, reflecting on methods and datasets used by these research paper. However, the research paper mostly focuses on meta-analysis of how often an empirical method and dataset is used among the 93 research paper. Moreover, quite a few research papers have been published since 2016 which report interesting findings from github. 
 
 ## Research Questions 
+- What are the findngs from Github reported in literature by the MSR community?
+- Which type of data are used from Github in different types of analytics for reporting these findings? Which type data is not bieng used?
 
 
+*Objective*  : To study aims discuss contemporary findings from Github datasets reported by researchers in MSR community. Also, possibly presents a vision for possible future work on analytics on Github datasets.
+  
 
 
-## Brief Reseach Methodology
-The scope of literature review is confined to papers published in MSR conferences since 2010 which use large scale data mined from Github repositories. The research work uptill now can be broadly classified as follows :
+## Brief Research Methodology:
+- Search strategy/ study selection criteria :  The scope of literature review is confined to papers published in MSR conferences since 2010 which use large scale data mined from Github repositories. 
+
+The research work uptill now can be broadly classified as follows :
+
+![Findings from Github](/classification.png)
 
 
+*Need to come up with a primary study assesment checklist
 
 ## Bibliography 
 
