@@ -2,16 +2,23 @@
 
 1) Title : **A Survey of contributions to Github by the MSR Community**
 
-2) Background : Since the advent of github, the MSR community has been mining open source repositories from Github to learn from past experiences. In the past decade there have been number of research papers have been published in MSR conference reporting ﬁndings based on data mined from GitHub. As the community continues to deepen in its understanding of software engineering thanks to the analysis performed on this platform, I believe it is worthwhile to reﬂect how research papers have exploited github for 
+## Background : 
+
+Since the advent of github, the MSR community has been mining open source repositories from Github to learn from past experiences. In the past decade, number of research papers have been published in MSR conference reporting ﬁndings based on data mined from GitHub. As the community continues to deepen in its understanding of software engineering thanks to the analysis performed on this platform, I believe it is worthwhile to reﬂect and summarise the findings from Github which these research papers have contributed to the research community by exploited large scale github data. In MSR 2016 conference, the paper : [Findings from GitHub: Methods, Datasets and Limitations (meta-analysis)](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/Findings%20from%20GitHub_Methods%2C%20Datasets%20and%20Limitations.pdf) presented meta-analysis of 93 research papers which report findings from Github repositories, reflecting on methods and datasets used by these research paper. However, the research paper mostly focuses on meta-analysis of how often an empirical method and dataset is used among the 93 research paper. Moreover, quite a few research papers have been published since 2016 which report interesting findings from github. 
+
+## Research Questions 
 
 
-addressed the task of mining GitHub repositories over the last years.
 
-3) Research questions :
+
+## Brief Reseach Methodology
+The scope of literature review is confined to papers published in MSR conferences since 2010 which use large scale data mined from Github repositories. The research work uptill now can be broadly classified as follows :
+
+
 
 ## Bibliography 
 
-all the papers contributing to github presented in MSR conference since 2010
+all the papers contributing to SE research community using github platform presented in MSR conference since 2010
 
 ### Surveys
 - [Findings from GitHub: Methods, Datasets and Limitations (meta-analysis)](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/Findings%20from%20GitHub_Methods%2C%20Datasets%20and%20Limitations.pdf)
@@ -23,7 +30,7 @@ all the papers contributing to github presented in MSR conference since 2010
 - [GHTorrent:Github’sDatafromaFirehose](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/ghtorrent-githubs-data-from-a-firehose.pdf)
 - [Lean GHTorrent: GitHub data on demand](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/lean-ghtorrent.pdf)
 
-### Contribution (commits, PR, Issues, discussions) analysis
+### Contribution (commits, PR, Issues, discussions) analytics
 - [A Study of External Community Contribution to Open-Source Projects on GitHub](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/A_study_of_external_community_contribution_to_open-source_projects_on_GitHub.pdf)
 - [An Insight into the Pull Requests of GitHub](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/An_insight_into_the_pull_requests_of_github.pdf)
 - [Security and Emotion: Sentiment Analysis of Security Discussions on GitHub](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/Security_and_emotion_sentiment_analysis_of_security_discussions_on_GitHub.pdf)
@@ -53,6 +60,5 @@ all the papers contributing to github presented in MSR conference since 2010
 
 
 ### Miscellaneous Analytics
-- [What is the Gist? Understanding the Use of Public Gists on GitHub](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/What%20is%20the%20Gist%20understanding%20the%20use%20of%20public%20Gists%20on%20GitHub.pdf)
 - [The Promises and Perils of Mining GitHub](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/The_promises_and_perils_of_mining_GitHub.pdf)
 - [Predicting Good Conﬁgurations for GitHub and Stack Overﬂow Topic Models](https://github.com/pradyot-09/Literature-Survey/blob/master/MSR%20github/Predicting%20Good%20Configurations%20for%20Github%20and%20Stack%20overflow%20topic%20models.pdf)
