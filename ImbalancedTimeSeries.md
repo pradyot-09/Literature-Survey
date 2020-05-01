@@ -1,15 +1,21 @@
 # Research Proposal
 
-## *Title* : 
+## *Title* :  A Review of Sampling methods for Imbalanced Time Series Classification
+
+*Author : Pradyot Patil*
 
 ## Background :
+Class Imbalance is one of the challenging problem for most of the traditional supervised classification learning algorithms, which are mostly ineffective for highly imbalanced data. Imbalanced time series classfication (ITSC) problem is a relatively new challenge that has attracted considerably less attention than imbalanced data (excluding time series) problems in data mining and machine learning research. Normally, researchers use sampling techniques and cost-sensitive learning for handling class imbalance problem. Sampling techniques have been well reviewed in papers like : [Learning from class-imbalanced data: review of methods and applications](http://www.sciencedirect.com/science/article/pii/S0957417416307175) and [Learning from imbalanced data](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5128907). However, the same is lacking for sampling techniques for imbalanced time series classification problem. The paper : [A Comparative Study of Sampling Methods and Algorithms for Imbalanced Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-642-35101-3_54) repprted a comarative study between oversampling and under-sampling methods, but did not cover all the sampling techniques and quite a few sampling techniques have been proposed since then.
 
+(Deep learning for time series classification is also a hot topic but a very comprehensive review have been recently published : [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356))
 
+## Research Questions
+- What are the most promising sampling techniques for solving Imbalanced time series classfication?
+- What are the strengths and weaknesses of these sampling techniques?
 
 ## Brief Research Methodology
 
 
-*Author : Pradyot Patil*
 
 
 ## Bibliography
@@ -20,20 +26,20 @@ Paper list of Imbalanced Time-series Classification
 *Credits* : @danielgy for some paper recommendations 
 
 
-
- 
 ## Imbalanced Time-Series Classification
 ### Sampling
-- [Model-Based Oversampling for Imbalanced Sequence Classification](http://home.ustc.edu.cn/~zcgong/Paper/Model-Based%20Oversampling%20for%20Imbalanced%20Sequence%20Classification.pdf)
+- [Model-Based Oversampling for Imbalanced Sequence Classification](https://dl.acm.org/doi/abs/10.1145/2983323.2983784)
 - [Integrated Oversampling for Imbalanced Time Series Classification](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6468038)
 - [An Effective Method for Imbalanced Time Series Classification: Hybrid Sampling](https://link.springer.com/chapter/10.1007/978-3-319-03680-9_38)
 - [SPO: Structure Preserving Oversampling for Imbalanced Time Series Classification](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6137306)
 - [A Comparative Study of Sampling Methods and Algorithms for Imbalanced Time Series Classification](https://link.springer.com/chapter/10.1007/978-3-642-35101-3_54)
 - [Improving SVM classification on imbalanced time series data sets with ghost points](https://link.springer.com/content/pdf/10.1007%2Fs10115-010-0310-3.pdf)
 - [A Parsimonious Mixture of Gaussian Trees Model for Oversampling in Imbalanced and Multimodal Time-Series Classification](http://ieeexplore.ieee.org/document/6766252/)
+- [Resampling strategies for imbalanced time series forecasting](https://link.springer.com/article/10.1007/s41060-017-0044-3)
+- [Over Sampling for Time Series Classification](https://arxiv.org/abs/1711.09545)
+- [An Efficient and Simple Under-sampling Technique for Imbalanced Time Series Classification](https://dl.acm.org/doi/abs/10.1145/2396761.2398635)
 
-
-### Cost-Sensitive
+### Cost-Sensitive with sampling
 - [Cost-Sensitive Learning Methods for imbalanced data](https://www.ismll.uni-hildesheim.de/pub/pdfs/Nguyen_et_al_IJCNN2010_CSL.pdf)
 - [Cost Sensitive Time-Series Classification](http://ecmlpkdd2017.ijs.si/papers/paperID652.pdf)
 
