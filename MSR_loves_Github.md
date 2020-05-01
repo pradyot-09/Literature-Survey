@@ -9,7 +9,7 @@ Since the advent of github, the MSR community has been mining open source reposi
 
 ## Research Questions 
 - What are the findings from Github reported in literature by the MSR community?
-- Which type of data are used from Github in different types of analytics for reporting these findings? Which type data is not being used?
+- Which type of data are used from Github in different types of analytics for reporting these findings? Which type of data is not being used?
 
 
 *Objective*  : To study aims discuss contemporary findings from Github datasets reported by researchers in MSR community. Also, possibly presents a vision for possible future work on analytics on Github datasets.
