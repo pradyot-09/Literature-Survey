@@ -23,25 +23,20 @@ After going through primary studies, map the challenges found in the primary stu
 ## Table of Contents
 
 1) Introduction:
-      
       - GDSE,importance of communication and coordination in GDSE
       - Objective, scope and research questions of study
    
 2) Background:
-      
       -  Definition of ESN
       - ESN as a communication tool in GDSE
    
 3) Challenges of ESN:
-      
       - Acceptance of ESN, Language barrier, communication flow in ESN (personal & group communication)
    
 4) Interventions/Guidelines for Effective use of ESN:
-      
       - Discuss the reported Interventions/guidelines for effective use of ESN in GDSE
 
 5)  Discussion: 
-      
       - How the above mentioned guidelines could help tackle the challenges
 
 6)  Conclusion
