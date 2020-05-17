@@ -1,6 +1,6 @@
 # Research Proposal
 
-## *Title* : Effective Use of Enterprise Social Networking Tools in Globally Distributed Software Engineering
+## *Title* : Towards Effective Use of Enterprise Social Networking Tools in Globally Distributed Software Engineering
 
 ## Background and Problem Statement
 
