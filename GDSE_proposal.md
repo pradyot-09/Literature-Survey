@@ -1,5 +1,3 @@
-# Research Proposal
-
 ## *Title* : Towards Effective Use of Enterprise Social Networking Tools in Globally Distributed Software Engineering
 
 ## Background and Problem Statement
@@ -23,21 +21,20 @@ RQ2: What are the best-practices for using ESN tools in GDSE teams to solve thes
 After going through primary studies, map the challenges found in the primary studies with appropriate best-practices of using ESN tools. 
 
 ## Table of Contents
-<!--ts-->
-   1) Introduction:
-      * GDSE,importance of communication and coordination in GDSE
-      * Objective, scope and research questions of study
-   2) Background:
-      *  Definition of ESN
-      * ESN as a communication tool in GDSE
-   3) Challenges of ESN:
-      * Acceptance of ESN, Language barrier, communication flow in ESN (personal & group communication)
-   4) Interventions/Guidelines for Effective use of ESN:
-      * Discuss the reported Interventions/guidelines for effective use of ESN in GDSE
-   5)  Discussion:
-         * How the above mentioned guidelines could help tackle the challenges
-   6)  Conclusion
-<!--te-->
+
+1) Introduction:
+   - GDSE,importance of communication and coordination in GDSE
+   - Objective, scope and research questions of study
+2) Background:
+   -  Definition of ESN
+   - ESN as a communication tool in GDSE
+3) Challenges of ESN:
+   - Acceptance of ESN, Language barrier, communication flow in ESN (personal & group communication)
+4) Interventions/Guidelines for Effective use of ESN:
+   - Discuss the reported Interventions/guidelines for effective use of ESN in GDSE
+5)  Discussion:
+   - How the above mentioned guidelines could help tackle the challenges
+6)  Conclusion
 
 
 ## References
