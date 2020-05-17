@@ -28,27 +28,52 @@ After going through primary studies, map the challenges found in the primary stu
 | 1 | Introduction:                                                                                              |
 |   | - GDSE,importance of communication and coordination in GDSE                                                |
 |   | - objective, scope and research questions of study                                                         |
+|   |                                                                                                            |
 | 2 | Background:                                                                                                |
 |   | - Definition of ESN                                                                                        |
 |   | - ESN as a communication tool in GDSE                                                                      |
+|   |                                                                                                            |
 | 3 | Challenges of ESN:                                                                                         |
-|   | - Acceptance of ESN, Language barrier, communication flow in ESN (personal or group)                       |
+|   | - Acceptance of ESN, Language barrier, communication flow in ESN (personal & group communication)          |
+|   |                                                                                                            |
 | 4 | Interventions/Guidelines for Effective use of ESN:                                                         |
 |   | - Discuss the reported Interventions/guidelines for effective use of ESN in GDSE                           |
 |   |                                                                                                            |
 | 5 | Discussion:                                                                                                |
 |   | - How the above mentioned guidelines could help tackle the challenges                                      |
+|   |                                                                                                            |
 | 6 | Conclusion                                                                                                 |
 
 
         
-
 ## References
 
-[1]: M. Chui, J. Manyika, J. Bughin, R. Dobbs, C. Roxburgh, H. Sarrazin, G. Sands, M. Westergren, “The Social Economy: Unlocking Value and Productivity through Social Technologies,” McKinsey Global Institute, July 2012, [link](http://www.mckinsey.com/insights/high_t ech_telecoms_internet/the_social_economy)
+Usefull references for the study.
+
+[1]: M. Chui, J. Manyika, J. Bughin, R. Dobbs, C. Roxburgh, H. Sarrazin, G. Sands, M. Westergren, “The Social Economy: Unlocking Value and Productivity through Social Technologies,” McKinsey Global Institute, July 2012, [link](http://www.mckinsey.com/insights/high_tech_telecoms_internet/the_social_economy)
 
 [2]: Balasubramaniam Ramesh, Lan Cao, Kannan Mohan, and Peng Xu. 2006. Can distributed software development be agile? Commun. ACM 49, 10 (October 2006), 41–46. [link](https://doi.org/10.1145/1164394.1164418)
 
 [3]: Sven Laumer, N. Sadat Shami, Michael Muller, and Werner Geyer. 2017. The Challenge of Enterprise Social Networking (Non-)Use at Work: A Case Study of How to Positively Influence Employees’ Enterprise Social Networking Acceptanc. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’17). Association for Computing Machinery, New York, NY, USA, 978–994. [link](https://doi.org/10.1145/2998181.2998309)
   
+[3]: Paul M. Leonardi, Marleen Huysman, Charles Steinfield, Enterprise Social Media: Definition, History, and Prospects for the Study of Social Technologies in Organizations, Journal of Computer-Mediated Communication, Volume 19, Issue 1, 1 October 2013, Pages 1–19, [link](https://doi.org/10.1111/jcc4.12029)
 
+[4]: C. Schiller and T. Meiren, "Enterprise Social Networks for Internal Communication and Collaboration," 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC), Stuttgart, 2018, pp. 1-4, [link](https://ieeexplore.ieee.org/abstract/document/8436337)
+
+[5]: Alqahtani S.M., Alanazi S., McAuley D. (2014) The Role of Enterprise Social Networking (ESN) on Business: Five Effective Recommendations for ESN. In: Zamojski W., Mazurkiewicz J., Sugier J., Walkowiak T., Kacprzyk J. (eds) Proceedings of the Ninth International Conference on Dependability and Complex Systems DepCoS-RELCOMEX. June 30 – July 4, 2014, Brunów, Poland. Advances in Intelligent Systems and Computing, vol 286. Springer, Cham [link](https://doi.org/10.1007/978-3-319-07013-1_3)
+
+[6]: Viktoria Stray, Nils Brede Moe, and Mehdi Noroozi. 2019. Slack me if you can! using enterprise social networking tools in virtual agile teams. In Proceedings of the 14th International Conference on Global Software Engineering (ICGSE ’19). IEEE Press, 101–111. [link](https://doi.org/10.1109/ICGSE.2019.00031)
+
+[7]: Shiri Kremer-Davidson, Inbal Ronen, Lior Leiba, Avi Kaplan, and Maya Barnea. 2016. Raising your Eminence inside the Enterprise Social Network. In Proceedings of the 19th International Conference on Supporting Group Work (GROUP ’16). Association for Computing Machinery, New York, NY, USA, 111–120. [link](https://doi.org/10.1145/2957276.2957281)
+
+[8]: Mohammad Hossein Jarrahi. 2012. Social technologies and knowledge sharing within and across organizations. In Proceedings of the 17th ACM international conference on Supporting group work (GROUP ’12). Association for Computing Machinery, New York, NY, USA, 287–288. [link](https://doi.org/10.1145/2389176.2389222)
+
+[9]: Jennifer Thom, David Millen, and Joan DiMicco. 2012. Removing gamification from an enterprise SNS. In Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work (CSCW ’12). Association for Computing Machinery, New York, NY, USA, 1067–1070. [link](https://doi.org/10.1145/2145204.2145362)
+
+[10]: Nolte, Ferry et al. “Moderation of Enterprise Social Networks - A Literature Review from a Corporate Perspective.” HICSS (2017). [link](https://scholarspace.manoa.hawaii.edu/handle/10125/41392)
+
+[11]: Kumar, V., Loonam, J., Allen, J. et al. Exploring enterprise social systems & organisational change: implementation in a digital age. J Inf Technol 31, 97–100 (2016). [link](https://doi.org/10.1057/jit.2016.13)
+
+[12] Chin, Christie Pei-Yee & Evans, Nina & Choo, Kim-Kwang Raymond. (2015). Enterprise Social Networks: A Successful Implementation within a Telecommunication Company. [link](https://aisel.aisnet.org/amcis2015/SocialComputing/GeneralPresentations/4/)
+
+[13]: Giermindl, Lisa & Strich, Franz & Fiedler, Marina. (2018). Do Enterprise Social Networks really Enhance our Performance? Exploring the Relationship between Usage Practices and Individual Task Performance . [link](https://aisel.aisnet.org/icis2018/social/Presentations/28/)
