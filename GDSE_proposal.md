@@ -1,5 +1,7 @@
 ## *Title* : Towards Effective Use of Enterprise Social Networking Tools in Globally Distributed Software Engineering
 
+*Author* : Pradyot Patil
+
 ## Background and Problem Statement
 
 Organizations have been successfully harnessing the power of social media to engange with customer, but they still face challenges when it comes to using Enterprise Social Networking (ESN) internally. It has been reported by many organizations that using ESN has led to some degree of business benefits [1]. Synchronizing work hours, informal communication through formal channels, balanced coordination and constant collaboration has been identified as four important practices for improving communication in agile GSD. As a result, organizations use ESNs for communication between co-workers within the same organization. Virtual teams in Global Software Development(GSD) rely on ESN rools such as Slack, Yammer, Mattermost, Sharepoint, Chatter etc. These tools contribute in making the communication more asynchronous and support distributed agile development. However, organization face several challenges in making effective use of these tools and balance the communication with other types of communication such as face-to-face meetings, calls and emails. In 2017, Sven et al. [3] presented a case study highlighting challenges of ESN and reported several interventions to positively influence the acceptance of ESN tools.There are quite a few studies that report effective implementation of ESN tools [11][13][14].
@@ -21,25 +23,6 @@ RQ2: What are the best-practices for using ESN tools in GDSE teams to solve thes
 After going through primary studies, map the challenges found in the primary studies with appropriate best-practices of using ESN tools. 
 
 ## Table of Contents
-
-1) Introduction:
-      - GDSE,importance of communication and coordination in GDSE
-      - Objective, scope and research questions of study
-   
-2) Background:
-      -  Definition of ESN
-      - ESN as a communication tool in GDSE
-   
-3) Challenges of ESN:
-      - Acceptance of ESN, Language barrier, communication flow in ESN (personal & group communication)
-   
-4) Interventions/Guidelines for Effective use of ESN:
-      - Discuss the reported Interventions/guidelines for effective use of ESN in GDSE
-
-5)  Discussion: 
-      - How the above mentioned guidelines could help tackle the challenges
-
-6)  Conclusion
 
 | # | Contents                                                                                                   |
 |---|------------------------------------------------------------------------------------------------------------|
